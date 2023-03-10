@@ -1,0 +1,11 @@
+setuptools==46.0.0
+tensorflow==2.0
+matplotlib==3.2.1
+opencv-python==4.2.0.32
+pandas==1.0.3
+sklearn==0.0
+xgboost==1.0.2
+scikit-learn==0.22.2.post1
+keras==2.3.1
+numpy==1.18.2
+image==1.5.28
